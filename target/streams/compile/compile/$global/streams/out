@@ -1,0 +1,30 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:31:55: illegal character '\u00b7'[0m
+[0m[[0m[31merror[0m] [0m[0m  <title>EnronDataAnalysis/HelloScala.scala at master · ankitamayekar/EnronDataAnalysis</title>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:146:10: unclosed character literal[0m
+[0m[[0m[31merror[0m] [0m[0m    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="169493364" data-scoped-search-url="/ankitamayekar/EnronDataAnalysis/search" data-unscoped-search-url="/search" action="/ankitamayekar/EnronDataAnalysis/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:146:12: unclosed quoted identifier[0m
+[0m[[0m[31merror[0m] [0m[0m    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="169493364" data-scoped-search-url="/ankitamayekar/EnronDataAnalysis/search" data-unscoped-search-url="/search" action="/ankitamayekar/EnronDataAnalysis/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:389:12: unclosed character literal[0m
+[0m[[0m[31merror[0m] [0m[0m      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="2OrMYvk2T5x9Y2vClUyLFzkPdibWP+HpxNVgpowHt/4t6crIDsu56AV6hHDNyopfrJ1eEkWg1uRNjYzWWvVb6w==" />[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:389:14: unclosed quoted identifier[0m
+[0m[[0m[31merror[0m] [0m[0m      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="2OrMYvk2T5x9Y2vClUyLFzkPdibWP+HpxNVgpowHt/4t6crIDsu56AV6hHDNyopfrJ1eEkWg1uRNjYzWWvVb6w==" />[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:429:138: illegal character '\ud83c'[0m
+[0m[[0m[31merror[0m] [0m[0m                          <g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:429:139: illegal character '\udf34'[0m
+[0m[[0m[31merror[0m] [0m[0m                          <g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:437:150: illegal character '\ud83e'[0m
+[0m[[0m[31merror[0m] [0m[0m                          <g-emoji alias="face_with_thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png">🤒</g-emoji>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:437:151: illegal character '\udd12'[0m
+[0m[[0m[31merror[0m] [0m[0m                          <g-emoji alias="face_with_thermometer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f912.png">🤒</g-emoji>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\ketan\source\root\HelloSparkStreaming\src\main\scala\HelloScala.scala:447:134: illegal character '\ud83c'[0m
+[0m[[0m[31merror[0m] [0m[0m                          <g-emoji alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                     ^[0m

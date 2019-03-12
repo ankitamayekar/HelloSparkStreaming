@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\hellosparkstreaming_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloScala2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\HelloScala2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Streaming$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\Streaming$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tempSimData.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\tempSimData.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingTryOnBatch$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\StreamingTryOnBatch$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingTempSim.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\StreamingTempSim.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingTry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\StreamingTry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingTempSim$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\StreamingTempSim$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingTempSim$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\StreamingTempSim$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingTry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\StreamingTry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingTryOnBatch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\StreamingTryOnBatch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloScala2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\HelloScala2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Streaming$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\Streaming$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Streaming.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\Streaming.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shakespeare.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ketan\source\root\HelloSparkStreaming\target\scala-2.12\classes\shakespeare.txt[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
