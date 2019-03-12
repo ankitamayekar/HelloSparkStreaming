@@ -1,0 +1,2 @@
+# HelloSparkStreaming
+A typical supercomputer has thousands of sensors recording hardware data (among other things) such as voltages, temperatures, error codes, etc…  Abnormal temperature readings are particularly indicative of failure (or potential failure). We are going to process a raw stream of temperature sensor data to get experience working with both single event and windowed streaming processing.
